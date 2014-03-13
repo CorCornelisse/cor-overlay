@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE repositories SYSTEM "/dtd/repositories.dtd">
+<repositories xmlns="" version="1.0">
+<repo quality="experimental" status="unofficial">
+        <name>cor-overlay</name>
+        <description>Additional packages for own use</description>
+        <homepage>https://github.com/CorCornelisse/cor-overlay</homepage>
+        <owner type="project">
+                <email>corcornelisse@gmail.com</email>
+                <name>Cor Cornelisse</name>
+        </owner>
+        <source type="git">https://github.com/CorCornelisse/cor-overlay.git</source>
+        <!--<source type="git">git://github.com/hyves-org/openstack-overlay.git</source>-->
+
+    <feed>https://github.com/CorCornelisse/cor-overlay/commits/eclass5.atom</feed>
+</repo>
+</repositories>
+
