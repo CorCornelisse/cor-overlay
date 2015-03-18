@@ -9,7 +9,7 @@ PYTHON_COMPAT=( python{2_7,3_3,3_4} )
 inherit eutils fdo-mime multilib python-single-r1
 
 MY_P_AMD64="${P}-linux-x86_64"
-#MY_P_X86="${P}-linux-i486"
+MY_P_X86="${P}-linux-i486"
 
 DESCRIPTION="A free research management tool for desktop and web"
 HOMEPAGE="http://www.mendeley.com/"
